@@ -3,7 +3,7 @@ Welcome to FlowerBloom, a fully responsive and beautifully designed flower shop 
 Perfect! Now you're building a bit more advanced version.
 Let me write a repository README including the features you mentioned — built using HTML + CSS only (frontend project):
 
-🌼 Key Features
+# 🌼 Key Features
 *  Elegant User Interface
 Clean and attractive design to highlight beautiful flower arrangements.
 
@@ -25,9 +25,7 @@ Lightweight, clean HTML and CSS for quick page loads.
 * Cross-Browser Compatibility
 Works seamlessly across Chrome, Firefox, Edge, Safari, etc.
 
-💻 Tech Stack
-HTML5
-
-CSS3
-
-(Optional JavaScript for small interactions, form validations, etc.)
+# 💻 Tech Stack
+* HTML5
+* CSS3
+* (Optional JavaScript for small interactions, form validations, etc.)
