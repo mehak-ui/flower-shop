@@ -1,2 +1,2 @@
-# flower-shop
-A responsive and beautifully designed Flower Shop website where customers can browse, order, and learn about different flowers and arrangements. Built using modern web technologies.
+# 🌸Petal & Bloom - Online Flower Shop Website
+Welcome to FlowerBloom, a fully responsive and beautifully designed flower shop website where customers can browse, search, and order fresh flowers for any occasion.
